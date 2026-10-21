@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**Maryamkalyar-12/Maryamkalyar-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Maryam! 👋
 
-Here are some ideas to get you started:
+🎓 Software Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning programming and building my skills
+🌱 Currently exploring C++, DSA, HTML, CSS and JavaScript
+🎯 Goal: Become a skilled software developer
+
+## 🛠️ Technologies I'm Learning
+- C++
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Data Structures & Algorithms
+
+## 🚀 My Projects
+Check out my repositories to see what I'm building
+as I learn and grow.
+
+## 🌸 A Little About Me
+I enjoy learning new things, solving problems,
+and turning ideas into projects.
+
+---
+*Learning, building, and improving every day.*
