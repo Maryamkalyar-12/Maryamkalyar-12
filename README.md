@@ -14,10 +14,6 @@
 - Git & GitHub
 - Data Structures & Algorithms
 
-## 🚀 My Projects
-Check out my repositories to see what I'm building
-as I learn and grow.
-
 ## 🌸 A Little About Me
 I enjoy learning new things, solving problems,
 and turning ideas into projects.
